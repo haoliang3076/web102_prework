@@ -22,8 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<img src='https://media.giphy.com/media/w1jPfwgrA6964GzraV/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img [src=https://imgur.com/eg4C8MC](https://imgur.com/eg4C8MC) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=https://imgur.com/eg4C8MC(https://imgur.com/eg4C8MC) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
